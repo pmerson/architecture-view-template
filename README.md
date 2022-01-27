@@ -6,14 +6,14 @@ Markdown template for documenting a software architecture view of any kind. Here
 
 
 ### Usage guidelines and suggestions 
- - Document your software architecture in multiple views
+ - Document your software architecture in multiple views:
    - Views that focus on code (layers, modules and submodules, dependencies, etc.)
    - Views that show the system at runtime
    - Views that describe deployment and runtime infrastructure
    - Domain model
    - Etc.
- - Name the views based on what they show, using terms the team is familiar with
- - Document a view *iff* it brings value to the dev team or other stakeholders
+ - Name the views based on what they show, using terms the team is familiar with.
+ - Document a view *iff* it brings value to the dev team or other stakeholders.
  - There's no need to fill up all sections of the view template.
     - Use **N/A** for sections you will not fill up.
     - Use **TO-DO** or **TBD** for sections you will work on later. 
@@ -21,9 +21,9 @@ Markdown template for documenting a software architecture view of any kind. Here
  - Complement structural diagrams with behavior diagrams when appropriate. 
    - Examples of behavior diagrams: sequence diagram, activity diagram, state machine diagram.
    - The template has a placeholder for behavior diagrams.
- - Record important design decisions using ADRs. Then add links to ADRs in the view. 
+ - Record important design decisions using [ADRs](https://github.com/pmerson/ADR-template). Then add links to ADRs in the view. 
  - If content is out of date, delete it or visibly mark it as out-of-date.
- - Documenting or revising an architecture view is a task that can be tracked in your backlog
+ - Creating an architecture view is a task that can be tracked in your backlog.
  - This template is a suggestion that you may want to adopt or adapt. In any case, establishing and sharing a template
 for architecture views in your team or organization is a good idea.
 
