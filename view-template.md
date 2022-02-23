@@ -1,6 +1,6 @@
-# *Put here the name of the view*  
+# *Enter here the name of the view*  
 
-Optionally, describe here in a short sentence what this view shows.
+Optionally, describe here in a short paragraph what this view shows.
 
 Add here a diagram. It can be a screen snapshot or whiteboard photo. Follow the [seven tips for design diagrams](seven-tips-design-diagrams.md).
 This is typically a *structural diagram* that shows elements and all possible relations between them.
@@ -36,4 +36,4 @@ Here's a suggested [ADR template](https://github.com/pmerson/ADR-template)
 ## Related views 
 If applicable, add links to parent view, children views, or other related views.
 
-(Parent and child views are result of refinement--see [tip #7](seven-tips-design-diagrams.md))
+(Parent and child views are result of *refinement*--see [tip #7](seven-tips-design-diagrams.md)).
