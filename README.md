@@ -2,7 +2,7 @@
 
 Markdown template for documenting a software architecture view of any kind. Here's the template...
 - [View template in English](view-template.md)
-- View template in Portuguese (TO-DO)
+- [View template in Portuguese](view-template_pt-BR.md)
 
 
 ### Usage guidelines and suggestions 
